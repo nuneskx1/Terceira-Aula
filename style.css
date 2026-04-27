@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    gap: 10px;
+}
+.item {
+    text-align: center;
+    color: white;
+}
+.azul{background: #00274d;}
+.vermelho{background: #e8505b;}
